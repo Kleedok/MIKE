@@ -70,7 +70,7 @@ As with many development projects, the repository on GitHub is considered to be 
 Mike is a 100% community-sponsored endeavor. If you want to join our efforts, the easiest thing you can do is support the project financially. Both Monero and Bitcoin donations can be made 
 
 The Bitcoin donation address is:  
-3LGDSceEJwNbthYEQMEJigiDHeFsmVYH2b
+3Ci6eRez4J23XfbufMkzas5wWKX4kHQvVQ
 Core development funding and/or some supporting services are also graciously provided by The Folks
 
 
